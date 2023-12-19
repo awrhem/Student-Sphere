@@ -1,5 +1,5 @@
 # Student-Management-System
-StudentSphere is a #Student-Management-System portal that will store the basic details of all students.<br>
+StudentSphere is a Student-Management-System portal that will store the basic details of all students.<br>
 -->Provides a smart and effective way of storing student information.
 <br>
 -->Helps in proper tracking of student information.
